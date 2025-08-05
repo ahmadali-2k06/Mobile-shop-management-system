@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|e:\\ahmad\\programming\\oop project\\projectui2\\projectui2\\addorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\addorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\entity classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\entity classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\entity classes\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\entity classes\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\entity classes\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\entity classes\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\entity classes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\entity classes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\entity classes\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\entity classes\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\entity classes\\discountedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\entity classes\\discountedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\stockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\stockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\stockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\stockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\business logic classes\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\business logic classes\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\business logic classes\\salesreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\business logic classes\\salesreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\business logic classes\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\business logic classes\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\utility-helper classes\\jsonfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\utility-helper classes\\jsonfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\utility-helper classes\\productwithquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\utility-helper classes\\productwithquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\business logic classes\\stockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\business logic classes\\stockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\projectui2\\addorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BFB7D7-C427-4988-B5B7-E669F722068B}|ProjectUI2\\MobileShopManagement.csproj|solutionrelative:projectui2\\addorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockForm.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\StockForm.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\StockForm.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\StockForm.cs",
+              "RelativeToolTip": "ProjectUI2\\StockForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:06:17.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockForm.cs [Design]",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\StockForm.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\StockForm.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\StockForm.cs [Design]",
+              "RelativeToolTip": "ProjectUI2\\StockForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:06:14.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalesReportForm.cs [Design]",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\SalesReportForm.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\SalesReportForm.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\SalesReportForm.cs [Design]",
+              "RelativeToolTip": "ProjectUI2\\SalesReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:12:12.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrdersForm.cs [Design]",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\OrdersForm.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\OrdersForm.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\OrdersForm.cs [Design]",
+              "RelativeToolTip": "ProjectUI2\\OrdersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:11:44.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductWithQuantity.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Utility-Helper Classes\\ProductWithQuantity.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\Utility-Helper Classes\\ProductWithQuantity.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Utility-Helper Classes\\ProductWithQuantity.cs",
+              "RelativeToolTip": "ProjectUI2\\Utility-Helper Classes\\ProductWithQuantity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:26:29.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JsonFileHelper.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Utility-Helper Classes\\JsonFileHelper.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\Utility-Helper Classes\\JsonFileHelper.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Utility-Helper Classes\\JsonFileHelper.cs",
+              "RelativeToolTip": "ProjectUI2\\Utility-Helper Classes\\JsonFileHelper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:26:22.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesReport.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Entity Classes\\SalesReport.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\Entity Classes\\SalesReport.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Entity Classes\\SalesReport.cs",
+              "RelativeToolTip": "ProjectUI2\\Entity Classes\\SalesReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:26:09.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Entity Classes\\Stock.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\Entity Classes\\Stock.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Entity Classes\\Stock.cs",
+              "RelativeToolTip": "ProjectUI2\\Entity Classes\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:26:11.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Entity Classes\\Product.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\Entity Classes\\Product.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Entity Classes\\Product.cs",
+              "RelativeToolTip": "ProjectUI2\\Entity Classes\\Product.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAADAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:26:04.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Entity Classes\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\Entity Classes\\OrderItem.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Entity Classes\\OrderItem.cs",
+              "RelativeToolTip": "ProjectUI2\\Entity Classes\\OrderItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:26:01.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Entity Classes\\Order.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\Entity Classes\\Order.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Entity Classes\\Order.cs",
+              "RelativeToolTip": "ProjectUI2\\Entity Classes\\Order.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:25:47.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiscountedOrder.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Entity Classes\\DiscountedOrder.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\Entity Classes\\DiscountedOrder.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Entity Classes\\DiscountedOrder.cs",
+              "RelativeToolTip": "ProjectUI2\\Entity Classes\\DiscountedOrder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA0wBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:25:45.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StockManager.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Business Logic Classes\\StockManager.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\Business Logic Classes\\StockManager.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Business Logic Classes\\StockManager.cs",
+              "RelativeToolTip": "ProjectUI2\\Business Logic Classes\\StockManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:25:06.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesReportManager.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Business Logic Classes\\SalesReportManager.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\Business Logic Classes\\SalesReportManager.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Business Logic Classes\\SalesReportManager.cs",
+              "RelativeToolTip": "ProjectUI2\\Business Logic Classes\\SalesReportManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:25:03.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Business Logic Classes\\ProductManager.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\Business Logic Classes\\ProductManager.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Business Logic Classes\\ProductManager.cs",
+              "RelativeToolTip": "ProjectUI2\\Business Logic Classes\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:25:04.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\MainForm.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\MainForm.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\MainForm.cs [Design]",
+              "RelativeToolTip": "ProjectUI2\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:22:31.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Business Logic Classes\\OrderManager.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\Business Logic Classes\\OrderManager.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\Business Logic Classes\\OrderManager.cs",
+              "RelativeToolTip": "ProjectUI2\\Business Logic Classes\\OrderManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:19:20.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddOrderForm.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\AddOrderForm.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\AddOrderForm.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\AddOrderForm.cs",
+              "RelativeToolTip": "ProjectUI2\\AddOrderForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:28:11.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddOrderForm.cs [Design]",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\AddOrderForm.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\AddOrderForm.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\AddOrderForm.cs [Design]",
+              "RelativeToolTip": "ProjectUI2\\AddOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:28:09.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\MainForm.cs",
+              "RelativeDocumentMoniker": "ProjectUI2\\MainForm.cs",
+              "ToolTip": "E:\\Ahmad\\Programming\\OOP project\\ProjectUI2\\ProjectUI2\\MainForm.cs",
+              "RelativeToolTip": "ProjectUI2\\MainForm.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAswC4BAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:28:12.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

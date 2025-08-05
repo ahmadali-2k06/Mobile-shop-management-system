@@ -1,0 +1,302 @@
+[
+  {
+    "Product": {
+      "Company": "Samsung",
+      "ModelName": "Galaxy S21",
+      "Ram": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh"
+    },
+    "Quantity": 10
+  },
+  {
+    "Product": {
+      "Company": "Samsung",
+      "ModelName": "Galaxy A52",
+      "Ram": "6GB",
+      "Storage": "256GB",
+      "Battery": "4500mAh"
+    },
+    "Quantity": 12
+  },
+  {
+    "Product": {
+      "Company": "Samsung",
+      "ModelName": "Note 20",
+      "Ram": "12GB",
+      "Storage": "512GB",
+      "Battery": "5500mAh"
+    },
+    "Quantity": 9
+  },
+  {
+    "Product": {
+      "Company": "Samsung",
+      "ModelName": "Note 24 Ultra",
+      "Ram": "4GB",
+      "Storage": "64GB",
+      "Battery": "4500mAh"
+    },
+    "Quantity": 6
+  },
+  {
+    "Product": {
+      "Company": "Samsung",
+      "ModelName": "Note 25",
+      "Ram": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh"
+    },
+    "Quantity": 8
+  },
+  {
+    "Product": {
+      "Company": "Apple",
+      "ModelName": "iPhone 13",
+      "Ram": "6GB",
+      "Storage": "256GB",
+      "Battery": "4500mAh"
+    },
+    "Quantity": 10
+  },
+  {
+    "Product": {
+      "Company": "Apple",
+      "ModelName": "iPhone 14",
+      "Ram": "4GB",
+      "Storage": "64GB",
+      "Battery": "5000mAh"
+    },
+    "Quantity": 7
+  },
+  {
+    "Product": {
+      "Company": "Apple",
+      "ModelName": "iPhone SE",
+      "Ram": "8GB",
+      "Storage": "128GB",
+      "Battery": "4500mAh"
+    },
+    "Quantity": 13
+  },
+  {
+    "Product": {
+      "Company": "Apple",
+      "ModelName": "iPhone 15",
+      "Ram": "12GB",
+      "Storage": "512GB",
+      "Battery": "5500mAh"
+    },
+    "Quantity": 11
+  },
+  {
+    "Product": {
+      "Company": "Apple",
+      "ModelName": "iPhone 16",
+      "Ram": "6GB",
+      "Storage": "256GB",
+      "Battery": "5000mAh"
+    },
+    "Quantity": 6
+  },
+  {
+    "Product": {
+      "Company": "Huawei",
+      "ModelName": "P50",
+      "Ram": "4GB",
+      "Storage": "64GB",
+      "Battery": "4500mAh"
+    },
+    "Quantity": 9
+  },
+  {
+    "Product": {
+      "Company": "Huawei",
+      "ModelName": "Mate 40",
+      "Ram": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh"
+    },
+    "Quantity": 10
+  },
+  {
+    "Product": {
+      "Company": "Huawei",
+      "ModelName": "Nova 8",
+      "Ram": "12GB",
+      "Storage": "512GB",
+      "Battery": "5500mAh"
+    },
+    "Quantity": 7
+  },
+  {
+    "Product": {
+      "Company": "Huawei",
+      "ModelName": "P40 Pro",
+      "Ram": "6GB",
+      "Storage": "256GB",
+      "Battery": "5000mAh"
+    },
+    "Quantity": 8
+  },
+  {
+    "Product": {
+      "Company": "Huawei",
+      "ModelName": "Mate X2",
+      "Ram": "8GB",
+      "Storage": "128GB",
+      "Battery": "4500mAh"
+    },
+    "Quantity": 5
+  },
+  {
+    "Product": {
+      "Company": "Redmi",
+      "ModelName": "Redmi Note 13 Pro+ 5G",
+      "Ram": "6GB",
+      "Storage": "256GB",
+      "Battery": "5500mAh"
+    },
+    "Quantity": 14
+  },
+  {
+    "Product": {
+      "Company": "Redmi",
+      "ModelName": "Redmi Note 13",
+      "Ram": "4GB",
+      "Storage": "64GB",
+      "Battery": "4500mAh"
+    },
+    "Quantity": 9
+  },
+  {
+    "Product": {
+      "Company": "Redmi",
+      "ModelName": "Redmi 13C",
+      "Ram": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh"
+    },
+    "Quantity": 7
+  },
+  {
+    "Product": {
+      "Company": "Redmi",
+      "ModelName": "Redmi Note 14 Pro",
+      "Ram": "12GB",
+      "Storage": "512GB",
+      "Battery": "5500mAh"
+    },
+    "Quantity": 12
+  },
+  {
+    "Product": {
+      "Company": "Redmi",
+      "ModelName": "Redmi 12",
+      "Ram": "6GB",
+      "Storage": "256GB",
+      "Battery": "5000mAh"
+    },
+    "Quantity": 6
+  },
+  {
+    "Product": {
+      "Company": "Infinix",
+      "ModelName": "Infinix Zero 30 5G",
+      "Ram": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh"
+    },
+    "Quantity": 11
+  },
+  {
+    "Product": {
+      "Company": "Infinix",
+      "ModelName": "Infinix Note 40 Pro",
+      "Ram": "6GB",
+      "Storage": "256GB",
+      "Battery": "4500mAh"
+    },
+    "Quantity": 13
+  },
+  {
+    "Product": {
+      "Company": "Infinix",
+      "ModelName": "Infinix Smart 8 Plus",
+      "Ram": "4GB",
+      "Storage": "64GB",
+      "Battery": "4500mAh"
+    },
+    "Quantity": 10
+  },
+  {
+    "Product": {
+      "Company": "Infinix",
+      "ModelName": "Infinix Zero 40",
+      "Ram": "12GB",
+      "Storage": "512GB",
+      "Battery": "5500mAh"
+    },
+    "Quantity": 7
+  },
+  {
+    "Product": {
+      "Company": "Infinix",
+      "ModelName": "Infinix Smart 9",
+      "Ram": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh"
+    },
+    "Quantity": 5
+  },
+  {
+    "Product": {
+      "Company": "Samsung",
+      "ModelName": "Galaxy A52",
+      "Ram": "6GB",
+      "Storage": "128GB",
+      "Battery": "4500mAh"
+    },
+    "Quantity": 7
+  },
+  {
+    "Product": {
+      "Company": "Apple",
+      "ModelName": "iPhone SE",
+      "Ram": "4GB",
+      "Storage": "64GB",
+      "Battery": "4500mAh"
+    },
+    "Quantity": 6
+  },
+  {
+    "Product": {
+      "Company": "Redmi",
+      "ModelName": "Redmi Note 14 Pro",
+      "Ram": "12GB",
+      "Storage": "512GB",
+      "Battery": "5500mAh"
+    },
+    "Quantity": 10
+  },
+  {
+    "Product": {
+      "Company": "Huawei",
+      "ModelName": "P50",
+      "Ram": "6GB",
+      "Storage": "256GB",
+      "Battery": "5000mAh"
+    },
+    "Quantity": 8
+  },
+  {
+    "Product": {
+      "Company": "Infinix",
+      "ModelName": "Infinix Zero 40",
+      "Ram": "12GB",
+      "Storage": "512GB",
+      "Battery": "5500mAh"
+    },
+    "Quantity": 6
+  }
+]
